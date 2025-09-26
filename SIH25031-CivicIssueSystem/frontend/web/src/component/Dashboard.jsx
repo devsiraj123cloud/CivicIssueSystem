@@ -286,6 +286,7 @@ const Dashboard = () => {
           <div className="animate-fade-in">
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
               CivicTech
+              <span className="text-sm text-blue-300 block mt-2">🚀 Now with Auto-Deployments</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-white/80 max-w-3xl mx-auto">
               Empowering communities through technology. Report, track, and resolve civic issues together.
